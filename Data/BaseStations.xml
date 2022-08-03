@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfBaseStation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BaseStation>
+    <Id>26</Id>
+    <Name>386 Sunbrook Road</Name>
+    <ChargeSlots>-44</ChargeSlots>
+    <Longitude>31.74625004</Longitude>
+    <Latitude>35.16157464</Latitude>
+    <IsAvailable>true</IsAvailable>
+  </BaseStation>
+  <BaseStation>
+    <Id>47</Id>
+    <Name>6739 Westerfield Crossing</Name>
+    <ChargeSlots>-46</ChargeSlots>
+    <Longitude>31.75574028</Longitude>
+    <Latitude>35.17880097</Latitude>
+    <IsAvailable>true</IsAvailable>
+  </BaseStation>
+  <BaseStation>
+    <Id>15</Id>
+    <Name>55 Artisan Trail</Name>
+    <ChargeSlots>-45</ChargeSlots>
+    <Longitude>31.77727276</Longitude>
+    <Latitude>35.19834661</Latitude>
+    <IsAvailable>true</IsAvailable>
+  </BaseStation>
+</ArrayOfBaseStation>

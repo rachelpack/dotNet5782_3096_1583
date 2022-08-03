@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <dal>xml</dal>
+  <dal-packages>
+    <list namespace="Dal" class="DalObject">DalObject</list>
+    <xml namespace="Dal" class="DalXml">DalXml</xml>
+  </dal-packages>
+  <data>
+    <createIdParcel>41</createIdParcel>
+    <PowerConsumptionByDroneAvailable>0.01</PowerConsumptionByDroneAvailable>
+    <PowerConsumptionByDroneCarryEasyWeight>0.02</PowerConsumptionByDroneCarryEasyWeight>
+    <PowerConsumptionByDroneCarryMediumWeight> 0.03</PowerConsumptionByDroneCarryMediumWeight>
+    <PowerConsumptionByDroneCarryheavyWeight>0.04</PowerConsumptionByDroneCarryheavyWeight>
+    <DroneLoadingRate>0.25</DroneLoadingRate>
+  </data>
+</config>

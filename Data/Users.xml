@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Users>
+  <Manager UserName="manager" Password="1234" />
+  <AllTheUsers>
+    <User Password="7" UserName="7" />
+    <User Password="5" UserName="1" />
+    <User Password="2" UserName="2" />
+  </AllTheUsers>
+</Users>
