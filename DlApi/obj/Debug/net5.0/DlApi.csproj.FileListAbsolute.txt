@@ -1,0 +1,16 @@
+C:\Users\user1\Desktop\AyalaBi\dotNet5782_3096_1538.git\dotNet5782_3096_1538\DlApi\obj\Debug\net5.0\DlApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\AyalaBi\dotNet5782_3096_1538.git\dotNet5782_3096_1538\DlApi\obj\Debug\net5.0\DlApi.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\AyalaBi\dotNet5782_3096_1538.git\dotNet5782_3096_1538\DlApi\obj\Debug\net5.0\DlApi.AssemblyInfo.cs
+C:\Users\user1\Desktop\AyalaBi\dotNet5782_3096_1538.git\dotNet5782_3096_1538\DlApi\obj\Debug\net5.0\DlApi.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\AyalaBi\dotNet5782_3096_1538.git\dotNet5782_3096_1538\DlApi\bin\Debug\net5.0\DlApi.deps.json
+C:\Users\user1\Desktop\AyalaBi\dotNet5782_3096_1538.git\dotNet5782_3096_1538\DlApi\bin\Debug\net5.0\DlApi.dll
+C:\Users\user1\Desktop\AyalaBi\dotNet5782_3096_1538.git\dotNet5782_3096_1538\DlApi\bin\Debug\net5.0\ref\DlApi.dll
+C:\Users\user1\Desktop\AyalaBi\dotNet5782_3096_1538.git\dotNet5782_3096_1538\DlApi\bin\Debug\net5.0\DlApi.pdb
+C:\Users\user1\Desktop\AyalaBi\dotNet5782_3096_1538.git\dotNet5782_3096_1538\DlApi\obj\Debug\net5.0\DlApi.dll
+C:\Users\user1\Desktop\AyalaBi\dotNet5782_3096_1538.git\dotNet5782_3096_1538\DlApi\obj\Debug\net5.0\ref\DlApi.dll
+C:\Users\user1\Desktop\AyalaBi\dotNet5782_3096_1538.git\dotNet5782_3096_1538\DlApi\obj\Debug\net5.0\DlApi.pdb
+C:\Users\user1\Desktop\AyalaBi\dotNet5782_3096_1538.git\dotNet5782_3096_1538\bin\net5.0\DlApi.deps.json
+C:\Users\user1\Desktop\AyalaBi\dotNet5782_3096_1538.git\dotNet5782_3096_1538\bin\net5.0\DlApi.dll
+C:\Users\user1\Desktop\AyalaBi\dotNet5782_3096_1538.git\dotNet5782_3096_1538\bin\net5.0\ref\DlApi.dll
+C:\Users\user1\Desktop\AyalaBi\dotNet5782_3096_1538.git\dotNet5782_3096_1538\bin\net5.0\DlApi.pdb
+C:\Users\user1\Desktop\AyalaBi\dotNet5782_3096_1538.git\dotNet5782_3096_1538\DlApi\obj\Debug\net5.0\DlApi.csprojAssemblyReference.cache

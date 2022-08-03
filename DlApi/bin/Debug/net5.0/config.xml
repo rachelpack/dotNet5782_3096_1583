@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+
+<config>
+
+	<dal>data</dal>
+
+
+	-<dal-packages>
+
+
+		-<data>
+
+			<class-name>DAL</class-name>
+
+			<namespace>DalObject</namespace>
+
+		</data>
+
+		<xml>DalXml</xml>
+
+	</dal-packages>
+
+</config>
