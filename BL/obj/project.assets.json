@@ -1,0 +1,174 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "System.Device.Location.Portable/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/System.Device.Portable.dll": {}
+        },
+        "runtime": {
+          "lib/System.Device.Portable.dll": {}
+        }
+      },
+      "DALFacade/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/DALFacade.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DALFacade.dll": {}
+        }
+      },
+      "DalObject/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "DALFacade": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DalObject.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DalObject.dll": {}
+        }
+      },
+      "DalXml/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "DALFacade": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DalXml.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DalXml.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "System.Device.Location.Portable/1.0.0": {
+      "sha512": "VttxozXEleYcK2NiMo7xKMhDCCJbKtjnxcWDmqu703DeceLTI/9jopfEblyZKL0DWHGyOYLEan06yk6Hcv2cXw==",
+      "type": "package",
+      "path": "system.device.location.portable/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/System.Device.Portable.dll",
+        "system.device.location.portable.1.0.0.nupkg.sha512",
+        "system.device.location.portable.nuspec"
+      ]
+    },
+    "DALFacade/1.0.0": {
+      "type": "project",
+      "path": "../DlApi/DALFacade.csproj",
+      "msbuildProject": "../DlApi/DALFacade.csproj"
+    },
+    "DalObject/1.0.0": {
+      "type": "project",
+      "path": "../DAL/DALObject.csproj",
+      "msbuildProject": "../DAL/DALObject.csproj"
+    },
+    "DalXml/1.0.0": {
+      "type": "project",
+      "path": "../DalXml/DALXml.csproj",
+      "msbuildProject": "../DalXml/DALXml.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "DALFacade >= 1.0.0",
+      "DalObject >= 1.0.0",
+      "DalXml >= 1.0.0",
+      "System.Device.Location.Portable >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\user1\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\user1\\Desktop\\AyalaBi\\dotNet5782_3096_1538.git\\dotNet5782_3096_1538\\BL\\BL.csproj",
+      "projectName": "BL",
+      "projectPath": "C:\\Users\\user1\\Desktop\\AyalaBi\\dotNet5782_3096_1538.git\\dotNet5782_3096_1538\\BL\\BL.csproj",
+      "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user1\\Desktop\\AyalaBi\\dotNet5782_3096_1538.git\\dotNet5782_3096_1538\\BL\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\user1\\Desktop\\AyalaBi\\dotNet5782_3096_1538.git\\dotNet5782_3096_1538\\DalXml\\DALXml.csproj": {
+              "projectPath": "C:\\Users\\user1\\Desktop\\AyalaBi\\dotNet5782_3096_1538.git\\dotNet5782_3096_1538\\DalXml\\DALXml.csproj"
+            },
+            "C:\\Users\\user1\\Desktop\\AyalaBi\\dotNet5782_3096_1538.git\\dotNet5782_3096_1538\\DAL\\DALObject.csproj": {
+              "projectPath": "C:\\Users\\user1\\Desktop\\AyalaBi\\dotNet5782_3096_1538.git\\dotNet5782_3096_1538\\DAL\\DALObject.csproj"
+            },
+            "C:\\Users\\user1\\Desktop\\AyalaBi\\dotNet5782_3096_1538.git\\dotNet5782_3096_1538\\DlApi\\DALFacade.csproj": {
+              "projectPath": "C:\\Users\\user1\\Desktop\\AyalaBi\\dotNet5782_3096_1538.git\\dotNet5782_3096_1538\\DlApi\\DALFacade.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "dependencies": {
+          "System.Device.Location.Portable": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Device.Location.Portable 1.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "System.Device.Location.Portable",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
