@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>DalObject</AssemblyName>
+    <ApplicationIcon />
+    <Win32Resource />
+    <Nullable></Nullable>
+    <RootNamespace>Dal</RootNamespace>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath>..\bin\</OutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DlApi\DALFacade.csproj" />
+  </ItemGroup>
+
+</Project>
