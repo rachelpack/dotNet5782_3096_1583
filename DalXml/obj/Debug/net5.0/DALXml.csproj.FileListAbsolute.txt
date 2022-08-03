@@ -1,0 +1,13 @@
+C:\Users\user1\Desktop\AyalaBi\dotNet5782_3096_1538.git\dotNet5782_3096_1538\bin\net5.0\DalXml.deps.json
+C:\Users\user1\Desktop\AyalaBi\dotNet5782_3096_1538.git\dotNet5782_3096_1538\bin\net5.0\DalXml.dll
+C:\Users\user1\Desktop\AyalaBi\dotNet5782_3096_1538.git\dotNet5782_3096_1538\bin\net5.0\ref\DalXml.dll
+C:\Users\user1\Desktop\AyalaBi\dotNet5782_3096_1538.git\dotNet5782_3096_1538\bin\net5.0\DalXml.pdb
+C:\Users\user1\Desktop\AyalaBi\dotNet5782_3096_1538.git\dotNet5782_3096_1538\DalXml\obj\Debug\net5.0\DALXml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\AyalaBi\dotNet5782_3096_1538.git\dotNet5782_3096_1538\DalXml\obj\Debug\net5.0\DALXml.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\AyalaBi\dotNet5782_3096_1538.git\dotNet5782_3096_1538\DalXml\obj\Debug\net5.0\DALXml.AssemblyInfo.cs
+C:\Users\user1\Desktop\AyalaBi\dotNet5782_3096_1538.git\dotNet5782_3096_1538\DalXml\obj\Debug\net5.0\DALXml.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\AyalaBi\dotNet5782_3096_1538.git\dotNet5782_3096_1538\DalXml\obj\Debug\net5.0\DALXml.csproj.CopyComplete
+C:\Users\user1\Desktop\AyalaBi\dotNet5782_3096_1538.git\dotNet5782_3096_1538\DalXml\obj\Debug\net5.0\DalXml.dll
+C:\Users\user1\Desktop\AyalaBi\dotNet5782_3096_1538.git\dotNet5782_3096_1538\DalXml\obj\Debug\net5.0\ref\DalXml.dll
+C:\Users\user1\Desktop\AyalaBi\dotNet5782_3096_1538.git\dotNet5782_3096_1538\DalXml\obj\Debug\net5.0\DalXml.pdb
+C:\Users\user1\Desktop\AyalaBi\dotNet5782_3096_1538.git\dotNet5782_3096_1538\DalXml\obj\Debug\net5.0\DALXml.csproj.AssemblyReference.cache
