@@ -1,0 +1,5 @@
+C:\Users\user1\Desktop\AyalaBi\dotNet5782_3096_1538.git\dotNet5782_3096_1538\ConsoleUI_BL\obj\Debug\net5.0\ConsoleUI_BL.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\AyalaBi\dotNet5782_3096_1538.git\dotNet5782_3096_1538\ConsoleUI_BL\obj\Debug\net5.0\ConsoleUI_BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\AyalaBi\dotNet5782_3096_1538.git\dotNet5782_3096_1538\ConsoleUI_BL\obj\Debug\net5.0\ConsoleUI_BL.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\AyalaBi\dotNet5782_3096_1538.git\dotNet5782_3096_1538\ConsoleUI_BL\obj\Debug\net5.0\ConsoleUI_BL.AssemblyInfo.cs
+C:\Users\user1\Desktop\AyalaBi\dotNet5782_3096_1538.git\dotNet5782_3096_1538\ConsoleUI_BL\obj\Debug\net5.0\ConsoleUI_BL.csproj.CoreCompileInputs.cache
